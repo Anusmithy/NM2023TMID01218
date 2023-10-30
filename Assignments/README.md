@@ -1,4 +1,5 @@
-#NM ID D11639B5F6440C1B5D643C67010062D0 
+__#NM ID D11639B5F6440C1B5D643C67010062D0__
+__(Madhumitha Anu)__
 
 -Create a Blog using Blogspot link 
 https://cricchronicles.blogspot.com/2023/08/top-ten-cricketers-of-all-time.html
@@ -21,7 +22,15 @@ https://cricchronicles.blogspot.com/2023/09/infographics-cricket-strategies-winn
 -Data Analytics Measurement
 G-RQEQ7VYKHZ
 
-#NM ID -- 1DF2DCAB40B615693FA421EFA683DD9B
+
+
+
+
+
+
+
+__#NM ID 1DF2DCAB40B615693FA421EFA683DD9B__
+__(Manicka Durga E)__
 
 -BLOG USING BLOGSPOT 
 https://dermaelixir.blogspot.com
@@ -41,7 +50,13 @@ https://dermaelixir.blogspot.com/2023/09/infographics-night-care-routine.html
 -GOOGLE ANALYTICS MEASUREMENT ID 
 G-1PHC4F8H34
 
-#Nm Id -- 9688BD78DCF6EEE943C41BFC1EC04265
+
+
+
+
+
+__#Nm Id 9688BD78DCF6EEE943C41BFC1EC04265__
+__(Asan Faritha)__
 
 -Blog Using Blogspot 
 https://disney04land.blogspot.com/2023/08/disneyland.html
@@ -64,7 +79,13 @@ https://disney04land.blogspot.com/2023/09/infographicamazing-health-benefits-of.
 -Google Analytic Measurement
 G-ER5WJNSPZB
 
-#NM ID - - - 8719ABDBC299AD9BE654B8D69760104B
+
+
+
+
+
+__#NM ID - - - 8719ABDBC299AD9BE654B8D69760104B__
+__(Mathumitha I)__
 
 -BLOG USING BLOGSPOT 
 https://mathumithailavarasu.blogspot.com/2023/08/behind-shutter.html
@@ -84,7 +105,13 @@ https://mathumithailavarasu.blogspot.com/2023/09/infographic-design.html
 -GOOGLE ANALYTICS MEASUREMENT ID
 G-1PXNV0T5TX
 
-#NM ID - - - 9C5568C3226AFDBBDB94F1F1018115E0
+
+
+
+
+
+__#NM ID - - - 9C5568C3226AFDBBDB94F1F1018115E0__
+__(Shruthi R)__
 
 -BLOG USING BLOG SPOT 
 https://tamilayiram.blogspot.com/
