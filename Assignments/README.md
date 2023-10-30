@@ -1,5 +1,5 @@
 __#NM ID D11639B5F6440C1B5D643C67010062D0__
-__(Madhumitha Anu)__
+__(Madhumitha Anu P)__
 
 -Create a Blog using Blogspot link 
 https://cricchronicles.blogspot.com/2023/08/top-ten-cricketers-of-all-time.html
@@ -56,7 +56,7 @@ G-1PHC4F8H34
 
 
 __#Nm Id 9688BD78DCF6EEE943C41BFC1EC04265__
-__(Asan Faritha)__
+__(Asan Faritha K)__
 
 -Blog Using Blogspot 
 https://disney04land.blogspot.com/2023/08/disneyland.html
